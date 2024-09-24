@@ -33,11 +33,13 @@ src_managed/
 project/boot/
 project/plugins/project/
 build/*.jar
+dependency-reduced-pom.xml
 
 # eclipse
 .project
 .classpath
 /.settings/
+.DS_Store
 
 # Redis
 dump.rdb
